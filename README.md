@@ -9,6 +9,9 @@ Dans ce projet, nous avons exploré plusieurs approches pour prédire si une per
 Tout le code utilisé pour l'analyse se trouve dans le répertoire `src`. <br>
 Le noteook `src/eda.ipynb` contient le code pour l'analyse exploratoire des données, et le notebook `src/modelling.ipynb` contient le code où sont implémentés et entrainés les différents modèles.
 
+## Dépendances
+Assurez-vous que toutes les dépendances sont installées en utilisant la commande `pip install -r requirements.txt`.
+ 
 ## Différentes approches
 ### Gradient Boosting
 Nous avons initialement utilisé des arbres de classification par gradient boosting pour analyser les données tabulaires du recensement. Le modèle a été entraîné en utilisant un encodage simple des données et une grid search exhaustive pour optimiser les hyperparamètres. Les résultats étaient prometteurs mais semblaient pouvoir être améliorés.
