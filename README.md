@@ -10,7 +10,7 @@ Tout le code utilisé pour l'analyse se trouve dans le répertoire `src`. <br>
 Le noteook `src/eda.ipynb` contient le code pour l'analyse exploratoire des données, et le notebook `src/modelling.ipynb` contient le code où sont implémentés et entrainés les différents modèles.
 
 ## Dépendances
-Assurez-vous que toutes les dépendances sont installées en utilisant la commande `pip install -r requirements.txt`.
+Assurez-vous que toutes les dépendances sont installées en utilisant la commande <br> `pip install -r requirements.txt`.
  
 ## Différentes approches
 ### Gradient Boosting
